@@ -597,7 +597,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/monetique.png" alt="Image Not Found">
+                                <img src="assets/img/portfolio/monetique.PNG" alt="Image Not Found">
                             </div>
                             <div class="content-info">
                                 <span>PHP 8</span>
@@ -615,7 +615,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/ia.png" alt="Image Not Found">
+                                <img src="assets/img/portfolio/ia.PNG" alt="Image Not Found">
                             </div>
                             <div class="pf-item-info">
                                 <div class="content-info">
@@ -635,7 +635,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/talx.png" alt="talx">
+                                <img src="assets/img/portfolio/talx.PNG" alt="talx">
                             </div>
                             <div class="pf-item-info">
                                 <div class="content-info">
@@ -664,7 +664,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/image.png" alt="Image Not Found">
+                                <img src="assets/img/portfolio/image.PNG" alt="Image Not Found">
                             </div>
                             <div class="pf-item-info">
                                 <div class="content-info">
