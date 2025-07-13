@@ -635,7 +635,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/talx.png" alt="Image Not Found">
+                                <img src="assets/img/portfolio/talx.png" alt="talx">
                             </div>
                             <div class="pf-item-info">
                                 <div class="content-info">
