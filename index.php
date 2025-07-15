@@ -532,7 +532,7 @@
                                 <li>
                                     <div class="left">
                                         <h5>2023 - 2025</h5>
-                                        <h4>En cours</h4>
+                                        <h4>Master</h4>
                                     </div>
                                     <div class="right">
                                         <h3>MASTER EN GÉNIE LOGICIEL</h3>
@@ -664,7 +664,7 @@
                     <div class="portfolio-style-one wow fadeInUp">
                         <div class="item">
                             <div class="thumb-zoom">
-                                <img src="assets/img/portfolio/image.PNG" alt="Image Not Found">
+                                <img src="assets/img/portfolio/image.png" alt="Image Not Found">
                             </div>
                             <div class="pf-item-info">
                                 <div class="content-info">
